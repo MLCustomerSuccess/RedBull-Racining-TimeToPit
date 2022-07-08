@@ -1,8 +1,7 @@
 # RedBull-Racining-TimeToPit
 
-<p style="font-size:20px;">
-<font color="black">
-Introduction: Experiment with Machine Learning and Win a Race Simulation with Red Bull Racing
+
+### Introduction: Experiment with Machine Learning and Win a Race Simulation with Red Bull Racing
 <font color="gray">
 <p style="margin-left:3%; margin-right:10%;font-size:16px;">
  
