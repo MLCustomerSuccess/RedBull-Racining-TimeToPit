@@ -23,6 +23,6 @@ Proposed solution:
 <font color="gray">
 <p style="font-size:14px;">
     
-* regression:  available data up until the race are used for regressing StintLen when stintNumber==1
-* classification:  available data up until the race and include normalzied data stintLen from past events. In this case we bucketized StintLen (5 buckets) and label of buckets serve as class label
+* regression: use available data up until the race are used for regressing StintLen when stintNumber==1
+* classification: use available data up until the race and include normalzied data stintLen from past events. In this case we bucketized StintLen (5 buckets) and label of buckets serve as class label
 
