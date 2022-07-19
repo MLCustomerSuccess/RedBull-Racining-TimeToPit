@@ -18,11 +18,11 @@ In this two-hour workshop, you’ll have the opportunity to experiment with pred
 Then … you get to try your own simulated race. We’ll run a simulation to see who has the best time, and who will win the best race of all time—the one you helped design.
 
 <p style="font-size:20px;">
-<font color="black">
+<font color="red">
 Proposed solution:
 <font color="gray">
 <p style="font-size:14px;">
     
-* regression: use available data up until the race are used for regressing StintLen when stintNumber==1
-* classification: use available data up until the race and include normalzied data stintLen from past events. In this case we bucketized StintLen (5 buckets) and label of buckets serve as class label
+* regression:  available data up until the race are used for regressing StintLen when stintNumber==1
+* classification: available data up until the race and normalzied stintLen from past events are used. In this case we bucketized StintLen (5 buckets) and label of buckets are served as class label
 
